@@ -1,4 +1,4 @@
 # amni
 
 ***Requirements***
-- ata
+- ata. Ex. area, weight
